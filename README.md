@@ -1,19 +1,7 @@
 # Act Medical Supply
 
-Public one-page site for **Act Medical Supply**, a trade name under **Act Industries, Inc.**
+Public site for **Act Medical Supply**, the medical equipment and supply brand of **Act Industries, Inc.**
 
-Sister branding to [actindustriesinc.com](https://actindustriesinc.com).
+Live: https://fredrc.github.io/act-medical-supply/
 
-## Local preview
-
-Open `index.html` in a browser, or:
-
-```bash
-python3 -m http.server 8080
-```
-
-## GitHub Pages
-
-Settings → Pages → Deploy from branch `main` / root (or `/docs` if you move files).
-
-Contact fields on the site are placeholders.
+Sister site: [actindustriesinc.com](https://actindustriesinc.com)
