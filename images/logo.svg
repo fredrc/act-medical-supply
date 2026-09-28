@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 72" role="img" aria-label="Act Medical Supply">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff8a2b"/>
+      <stop offset="100%" stop-color="#f17316"/>
+    </linearGradient>
+  </defs>
+  <!-- stylized pin / swirl mark -->
+  <path fill="url(#g)" d="M34 8c-12 0-22 10-22 22 0 16 22 38 22 38s22-22 22-38c0-12-10-22-22-22zm0 30a8 8 0 1 1 0-16 8 8 0 0 1 0 16z"/>
+  <circle cx="34" cy="30" r="3.2" fill="#0a0b0f"/>
+  <text x="70" y="38" font-family="Arial Black, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="800" fill="#ffffff" letter-spacing="1">ACT</text>
+  <text x="70" y="58" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#a8a8a8" letter-spacing="3.5">MEDICAL SUPPLY</text>
+</svg>
